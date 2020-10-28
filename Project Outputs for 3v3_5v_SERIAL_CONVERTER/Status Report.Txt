@@ -1,0 +1,10 @@
+Output: Mixed Sim
+Type  : AdvSimNetlist
+From  : Project [3v3_5v_SERIAL_CONVERTER.PrjPcb]
+   Generated File[3v3_5v_SERIAL_CONVERTER.nsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:18:38 AM On 10/23/2020
